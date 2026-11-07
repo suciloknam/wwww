@@ -1,0 +1,6 @@
+.env
+.git
+nginx
+evals/results
+__pycache__
+*.md
